@@ -16,10 +16,15 @@
 /* Customize headers to remove default underline */
 .prose h2 a,
 .prose h3 a {
+  color: #111827;
   @apply no-underline;
 
   &:hover {
     @apply border-b border-neutral-600 dark:border-neutral-300;
   }
+}
+
+.prose a {
+  @apply text-blue-500;
 }
 </style>

@@ -13,6 +13,8 @@ export default defineNuxtConfig({
   },
   // https://content.nuxtjs.org
   content: {
+    locales: ['en', 'es'],
+    defaultLocale: 'en',
     navigation: {
       fields: ['navTitle']
     },
