@@ -1,0 +1,1 @@
+/* empty css                   */import{m as t,o as n,e as o,E as c}from"./entry.5fcc1a1f.js";const r={};function s(e,_){return n(),o("p",null,[c(e.$slots,"default",{},void 0,!0)])}const f=t(r,[["render",s],["__scopeId","data-v-34cc59f0"]]);export{f as default};
